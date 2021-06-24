@@ -1,6 +1,6 @@
 import React from "react";
 //import style css
-//import picOfMe from '../'
+//import picOfMe from '../'  ---where does folder for pics go?
 
 function Header() {
     return (
