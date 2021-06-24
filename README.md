@@ -7,6 +7,7 @@ This assignment requires creating a portfolio with React with components for Hea
 ## Installation
 - `npx create-react-app <appname>`
 - `npm install --save bootstrap`
+- `npm install react-router-dom`
 
 ## License
 This project is licensed under the MIT license. Click the link below for more info.
