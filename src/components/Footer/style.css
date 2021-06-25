@@ -1,0 +1,8 @@
+.footer img {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    padding: 10px;
+    left: 45%;
+}
