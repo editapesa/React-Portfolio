@@ -15,5 +15,5 @@ This project is licensed under the MIT license. Click the link below for more in
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Visuals
-Click here to view it: [Portfolio](https://url.com)
+Click here to view it: [Portfolio](https://editapesa.github.io/React-Portfolio/)
 

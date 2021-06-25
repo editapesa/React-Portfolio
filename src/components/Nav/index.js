@@ -8,7 +8,7 @@ function Nav() {
         <ul className='nav nav-tabs p-2'>
             <li className='nav-item'>
                 <Link to='/' className={location.pathname === '/' ? 'nav-link active' : 'nav-link'}>
-                    Home
+                    About
                 </Link>
             </li>
             <li className='nav-item'>
