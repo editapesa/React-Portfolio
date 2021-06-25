@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Pdf from '../assets/EditaResume.pdf'
 
 let onLinkedInClick = () => {
     window.location.href = "https://linkedin.com/in/edita-pesa-59191776"
@@ -14,8 +15,8 @@ let onEmailClick = () => {
 };
 
 let onResumeClick = () => {
-    window.location.href = ""
-};
+    window.open(Pdf);
+}
 
 function Contact() {
     return (
