@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "PetTrax",
+        "github": "https://github.com/editapesa/pettrax",
+        "url": "https://secret-coast-15963.herokuapp.com/",
+        "image": "src/assets/pettrax.png"
+    },
+    {
+        "id": 2,
+        "title": "Budget Tracker",
+        "github": "https://github.com/editapesa/Budget-Tracker",
+        "url": "https://peaceful-shore-19429.herokuapp.com/", 
+        "image": "src/assets/budget-tracker.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Workout Tracker",
+        "github": "https://github.com/editapesa/Workout-Tracker",
+        "url": "https://fathomless-refuge-68603.herokuapp.com/",
+        "image": "src/assets/workout-tracker.jpg"
+    },
+    {
+        "id": 4,
+        "title": "E-Commerce Back End",
+        "github": "https://github.com/editapesa/E-Commerce-Back-End",
+        "url": "https://drive.google.com/file/d/1q7nGn7sYzEnJeMJxrVhVoIh-uKIUyeDJ/view",
+        "image": "src/assets/e-comm-backend-pic.png"
+    },
+    {
+        "id": 5,
+        "title": "Team Profile Generator",
+        "github": "https://github.com/editapesa/Team-Profile-Generator",
+        "url": "https://drive.google.com/file/d/1Ab3fmLygTmuAyEK7RDL5O478GgmWqQH2/view",
+        "image": "src/assets/team-prof-gen-pic.jpg"
+    },
+    {
+        "id": 6,
+        "title": "README Generator",
+        "github": "https://github.com/editapesa/Professional-README-Generator",
+        "url": "https://drive.google.com/file/d/1evV6jk5wgwmDYZhNRXFCc__p1587A1Rb/view",
+        "image": "src/assets/readme-gen.png"
+    }
+]
