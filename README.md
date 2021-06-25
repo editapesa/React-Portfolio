@@ -17,4 +17,3 @@ This project is licensed under the MIT license. Click the link below for more in
 ## Visuals
 Click here to view it: [Portfolio](https://url.com)
 
-![demo pic 1](demo-pic1.jpg)
